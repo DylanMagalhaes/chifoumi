@@ -5,9 +5,9 @@ const iaHandLabel = document.querySelector("#iaHandLabel")
 const turnResult = document.querySelector("#turnResult")
 
 const Hand = {
-    Rock: "Pierre",
-    Paper: "Papier",
-    Scissors: "Ciseaux",
+    Rock: "Rock",
+    Paper: "Paper",
+    Scissors: "Scissors",
 }
 
 function randomInt(maxExcluded) {
